@@ -38,6 +38,15 @@ nav a:hover{
     padding: 50px 0;
 
 }
+.li1:hover{
+    transform: scale(1.1)
+}
+.li2:hover{
+    transform: scale(1.1)
+}
+.li3:hover{
+    transform: scale(1.1)
+}
 .produtos li{
 
     display: inline-block;
@@ -83,5 +92,5 @@ footer{
     color: #ffffff;
     font-size: 13px;
     margin: 20px;
-    
+
 }
